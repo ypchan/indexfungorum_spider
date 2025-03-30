@@ -1,10 +1,6 @@
 # **indexfungorum_spider** 
 
-<span style="color:blue"> A simple python spider written for extracting information from Index Fungorum automatically </span>
-
-<span style="color:red">红色文字</span>
-<span style="color:#00FF00">绿色文字（十六进制）</span>
-<span style="color:blue;font-weight:bold">蓝色加粗文字</span>
+**A simple python spider written for extracting information from Index Fungorum automatically**
 
 [Index Fungorum](https://indexfungorum.org/Names/Names.asp) is a dynamic webpage, making it impossible to directly scrape certain information using Python.
 
